@@ -29,11 +29,11 @@ you can place your images in folder `./HM16.15_modify/dataset`
 ```
 > 6.build and test.
 ###### MyExample
-set workplace in Folder `./HM16.15_modify/workplace`
-use cfg files in `./HM16.15_modify/workplace/cfgfiles`
-yuv files in Folder `./HM16.15_modify/workplace/dataset` for demostration 
+set workplace in Folder `./HM16.15_modify/workplace`  
+use cfg files in `./HM16.15_modify/workplace/cfgfiles`  
+yuv files in Folder `./HM16.15_modify/workplace/dataset` for demostration  
 ## REMEMBER to set the img size Correctly!
-(P.S. you can look over how to use TAPPEnc or TAPPDec by input `TAppEncoder` in cmd)
+(P.S. you can look over how to use TAPPEnc or TAPPDec by input `TAppEncoder` in cmd)  
 
 ## HEVC-BASED DEBLOCKING FILTER WITH RAMP PRESERVATION PROPERTIES
 
