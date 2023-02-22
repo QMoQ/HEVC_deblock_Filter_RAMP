@@ -7,7 +7,7 @@ So if you want to implement it in other HM version, my advice is to use Tortoise
 ## TEST
 > 1.download this repository
 ```
-git clone 
+git clone https://github.com/giaogiao-1-a/HEVC_deblock_FIilter_RAMP.git
 ```
 > 2.make sure files are set down.
 ```
