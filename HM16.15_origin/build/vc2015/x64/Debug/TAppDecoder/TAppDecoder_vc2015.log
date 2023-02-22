@@ -1,0 +1,6 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  TAppDecTop.cpp
+  TAppDecCfg.cpp
+  decmain.cpp
+  正在生成代码...
+  TAppDecoder_vc2015.vcxproj -> E:\Code\HEVC\HM16.15_origin\bin\vc2015\x64\Debug\TAppDecoder.exe

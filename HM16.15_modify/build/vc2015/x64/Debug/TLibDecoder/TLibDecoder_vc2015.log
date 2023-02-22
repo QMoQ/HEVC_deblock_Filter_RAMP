@@ -1,0 +1,16 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  TDecTop.cpp
+  TDecSlice.cpp
+  TDecSbac.cpp
+  TDecGop.cpp
+  TDecEntropy.cpp
+  TDecCu.cpp
+  TDecConformance.cpp
+  TDecCAVLC.cpp
+  TDecBinCoderCABAC.cpp
+  SyntaxElementParser.cpp
+  SEIread.cpp
+  NALread.cpp
+  AnnexBread.cpp
+  正在生成代码...
+  TLibDecoder_vc2015.vcxproj -> E:\Code\HEVC\HM16.15_modify\build\vc2015\x64\Debug\TLibDecoder\TLibDecoder.lib

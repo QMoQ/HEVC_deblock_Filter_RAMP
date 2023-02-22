@@ -1,0 +1,22 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  WeightPredAnalysis.cpp
+  TEncTop.cpp
+  TEncSlice.cpp
+  TEncSearch.cpp
+  TEncSbac.cpp
+  TEncSampleAdaptiveOffset.cpp
+  TEncRateCtrl.cpp
+  TEncPreanalyzer.cpp
+  TEncPic.cpp
+  TEncGOP.cpp
+  TEncEntropy.cpp
+  TEncCu.cpp
+  TEncCavlc.cpp
+  TEncBinCoderCABACCounter.cpp
+  TEncBinCoderCABAC.cpp
+  SyntaxElementWriter.cpp
+  SEIwrite.cpp
+  SEIEncoder.cpp
+  NALwrite.cpp
+  正在生成代码...
+  TLibEncoder_vc2015.vcxproj -> E:\Code\HEVC\HM16.15_modify\build\vc2015\x64\Debug\TLibEncoder\TLibEncoder.lib
