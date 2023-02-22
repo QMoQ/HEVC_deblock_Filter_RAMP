@@ -9,10 +9,14 @@ So if you want to implement it in other HM version, my advice is to use Tortoise
 ```
 git clone 
 ```
-> 2.open Folder `./build` and find `HM_vc2015.sln`.
-> 3.open `HM_vc2015.sln` with Visual Studio.
-> 4.set and select your own configs in Folder `./cfg`.
+> 2.make sure files are set down.
+open Folder `./build` and find `HM_vc2015.sln`.
+> 3.get ready.
+open `HM_vc2015.sln` with Visual Studio
+> 4.set and select your own configs.
+you can use cfg files in Folder `./cfg` or rewrite your own one.
 > 5.prepare your own images.
+you can place your images in folder `./dataset`
 > 6.build and test.
 
 
