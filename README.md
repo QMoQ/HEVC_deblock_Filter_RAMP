@@ -9,7 +9,7 @@ All my work is done in Folder `HM16.15_modify` and is built on Project `HM16.15_
 ## TEST 
 > 1.download this repository
 ```
-git clone https://github.com/giaogiao-1-a/HEVC_deblock_FIilter_RAMP.git
+git clone https://github.com/giaogiao-1-a/HEVC_deblock_Filter_RAMP.git
 ```
 > 2.make sure files are set down.
 ```
