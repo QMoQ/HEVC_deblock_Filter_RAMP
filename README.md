@@ -1,4 +1,4 @@
-# HEVC_deblock_FIilter_RAMP
+# HEVC_deblock_Filter_RAMP
 unofficial implement for Paper ["HEVC-BASED DEBLOCKING FILTER WITH RAMP PRESERVATION PROPERTIES"](https://ieeexplore.ieee.org/document/7025744/)
 
 My implement is based on Official HM.16.15(Windows10 Visual Studio 2022) and I just modified the deblockFilter part according to the paper I refered above.
