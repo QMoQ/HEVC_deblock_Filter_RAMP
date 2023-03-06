@@ -37,7 +37,7 @@ yuv files in Folder `./HM16.15_modify/workplace/dataset` for demostration
 
 ## HEVC-BASED DEBLOCKING FILTER WITH RAMP PRESERVATION PROPERTIES
 
-###### pics for better understand  
+###### pics for better understanding  
 ![image](https://github.com/giaogiao-1-a/HEVC_deblock_FIilter_RAMP/blob/main/demo.PNG)  
 
 Results and effect of the method in this paper(from the paper).  
